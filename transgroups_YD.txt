@@ -1,0 +1,17 @@
+O(N-H-)	Deamination	0.9840155827999997	true
+NH3(O-)	Transamination	1.0316344816000012	true
+H2	Hydrogenation	2.0156500644	true
+CH2	Methylation	14.015650064399999	true
+O	Oxygenation	15.994914619	true
+H2O	Condensation/Dehydration/Cyclization	18.0105646834	true
+NCH	Formidoylation	27.0108990362	true
+CO	Formylation	27.994914619	true
+CHOH	Hydroxymethylation	30.0105646834	true
+S	Tranfer of and -SH group	31.972071174	true
+C2H2O	Acetylation	42.0105646834	true
+CONH	Carbamoylation	43.0058136552	true
+CO2	Carboxylation/Decarboxylation	43.989829238	true
+C2H2O2	Carboxymethylation	58.0054793024	true
+C3H4O2	Carboxyehtylation	72.0211293668	true
+SO3	Sulphation	79.95681503099999	true
+PO3H	Phosphorylation	79.9663308872	true
