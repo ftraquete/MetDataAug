@@ -3,6 +3,8 @@ Condensed version of the code related with the artificial augmentation of metabo
 
 #### Note: Run Linear Augmentation of Data notebook first to generate the dataset store (processed_data_GD) used in other notebooks.
 
+#### 2nd Note: Warnings in notebooks were suppressed for them to look more clean in the repository. If ran, erase the warning suppresser (indicated in the beginning of the notebooks) to observe the warnings. This will be changed to only capture warnings on specific cells very soon.
+
 Code and notebooks related to the developed MDiN functions are also present here since they are not present in the paper_sMDiN repository (they were not addressed in the paper that led to that repository).
 
 We acknowledge many different online platforms that provided code that was adapted to make different types of GAN. The specific links for each platform are described in the respective notebooks and before the functions in GAN_functions. 
